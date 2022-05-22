@@ -16,3 +16,6 @@ The main objectives of the project were to:
 4. Discover insights into the impact of air pollution on deaths, fertility rates and life expectancy in different regions around the globe.
 5. Demonstrate patterns found and correlations between the datasets using visualisation techniques.
 6. Make future predictions using the machine learning algorithms that demonstrate how the impact of pollution may be mitigated
+
+
+*Please Note: pollution_us_2000_2016 file must be unzipped before running the notebook*
